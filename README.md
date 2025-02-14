@@ -6,4 +6,4 @@ The presentation will discuss aspects of phylogenetic analysis and how it is app
 
 **[Link to the workshop folder](https://bit.ly/csc-lang-folder)** 
 
-Download entire folder to personal device --> contains PhyG application used to display phylogenetic graphs
+**Download entire folder to personal device --> contains PhyG application used to display phylogenetic graphs**
